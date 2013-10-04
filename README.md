@@ -4,7 +4,7 @@ node-express-player-api
  for all the basic CRUD actions.
  
  
- To run, make usre mongodb is installed and running, you have the mongoDB driver for node.js
+ To run, make sure mongodb is installed and running, you have the mongoDB driver for node.js
  (npm install mongodb) and then run server.js.
  
  Access from the comand line or from a browser (http://localhost:3000/players).
